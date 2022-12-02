@@ -2,9 +2,9 @@
 
 ## Contacts
 
-**Location:** Tashkent, Uzbekistan
-**Email:** yakubov.amal321@gmail.com
-**Github:** [@blackkyy](https://github.com/blackkyy)
+- **Location:** Tashkent, Uzbekistan
+- **Email:** yakubov.amal321@gmail.com
+- **Github:** [@blackkyy](https://github.com/blackkyy)
 
 ## About me
 
