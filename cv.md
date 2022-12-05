@@ -48,5 +48,5 @@ alert(sum(1, 2)); // 3
 
 ## English
 
-- IELTS 7.0 
+- IELTS 7.0
 - Worked as an ESL teacher in a learning center
